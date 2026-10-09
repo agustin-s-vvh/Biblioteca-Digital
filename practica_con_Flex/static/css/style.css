@@ -622,20 +622,3 @@ main {
 
     color: #aaa;
 }
-
-
-/* ================================
-   RESPONSIVIDAD
-   SIN MEDIA QUERIES
-================================ */
-
-/*
-    La responsividad depende principalmente de:
-
-    display: flex;
-    flex-wrap: wrap;
-    flex: 1 1;
-    min-width;
-    max-width;
-    width: 100%;
-    gap;
